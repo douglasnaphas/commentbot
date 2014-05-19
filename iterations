@@ -1,0 +1,10 @@
+command-line tool
+	package up a one-file "hello world" as a phar
+		maybe just execute from an extensionless file beginning with "#!/usr/bin/php"
+	run a multi-PHP file program from a single word at the command line using a PHAR
+	print the results of a JIRA query, run in bash
+	print the results of a JIRA query, run in php
+	
+
+e-mail bot
+	prepare the text of the e-mails
